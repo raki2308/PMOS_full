@@ -1,0 +1,4 @@
+This Folder contains LUTS for different parameters of PMOS with voltages:
+vgs swept across 0 V to 1.8 V with step of 0.01 V (across rows in .csv file i.e., top to bottom)
+vds swept across 0.01 V to 1.8 V with step of 0.01 V (across columns in .csv file i.e., left to right)
+vsb swept across 0 V to 1.8 V with step of 0.01 V (across columns in .csv file i.e., left to right)
